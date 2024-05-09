@@ -1,1 +1,1 @@
-# Projeto_Imersao_Alura
+# Projeto - Imersão Inteligência Artificial 2ª Edição
